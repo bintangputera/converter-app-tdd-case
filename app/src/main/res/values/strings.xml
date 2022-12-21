@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Converter App</string>
+    <string name="label_temp_converter_app">Aplikasi Konverter Suhu</string>
+    <string name="hint_input_initial_value">Masukkan nilai awal</string>
+    <string name="label_equal">=</string>
+    <string name="label_result">Hasil :</string>
+    <string name="label_calculate">Hitung</string>
+    <string name="label_zero">0</string>
+    <string name="label_to">To :</string>
+
+    <array name="unit_name">
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </array>
+</resources>
